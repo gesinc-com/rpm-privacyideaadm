@@ -60,7 +60,6 @@ You can also use it to manage SSH keys centrally for all your servers running op
 %prep
 %autosetup -p1 -n %{pkgname}-%{version}
 
-
 %if 0%{?with_python3}
 cp -a . %{py3dir}
 %endif # with_python3
