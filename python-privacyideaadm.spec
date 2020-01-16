@@ -111,8 +111,5 @@ popd
 %endif # with_python3
 
 %changelog
-
-
-
-
-
+* Thu Jan 16 2020 Bishop Clark <bishopolis@gmail.com> - 2.15.1-1
+- initial
